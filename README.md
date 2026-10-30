@@ -1,3 +1,4 @@
+<img align="center" src="assets/logo.png">
 <h1 align="center">
   Tronix Launcher
 </h1>
