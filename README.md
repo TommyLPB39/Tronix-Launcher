@@ -5,7 +5,7 @@
 <p align="center">An open-source launcher in the form of a Windows application. It lets you integrate your games from libraries such as Steam, Epic Games Store, GOG Galaxy, Ubisoft Connect, Xbox / Game Pass, EA, Battle.net, and more... all through a single application.</p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Version-Beta%201.0.0-blue?style=for-the-badge" alt="Version" />
+  <img src="https://img.shields.io/badge/Version-Beta%200.1.0-blue?style=for-the-badge" alt="Version" />
   <img src="https://img.shields.io/badge/License-MIT-orange?style=for-the-badge" alt="Version" />
   <a href="https://github.com/TommyLPB39/Tronix-Launcher/releases">
     <img src="https://img.shields.io/github/downloads/TommyLPB39/Tronix-Launcher/total?style=for-the-badge&color=green&logo=github&logoColor=white" alt="Téléchargements totaux" />
