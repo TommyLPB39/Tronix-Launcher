@@ -1,0 +1,1 @@
+{"default":{"identifier":"default","description":"Strict minimum for the main window and the quick launcher: listen to app events and open a file picker. Everything else goes through the app's own commands.","local":true,"windows":["main","quick"],"permissions":["core:event:allow-listen","core:event:allow-unlisten","dialog:allow-open"]}}
